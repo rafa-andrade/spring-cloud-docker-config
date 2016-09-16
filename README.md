@@ -1,1 +1,0 @@
-# spring-cloud-docker-config
